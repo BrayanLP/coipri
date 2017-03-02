@@ -1,0 +1,56 @@
+#Scroller { 
+  position: relative;
+  float:left;
+  margin:0 0 0 0;
+  width:965px; 
+  padding-right:8px;
+  /*height:360px; */
+  overflow:hidden;
+  /*text-align:justify;*/
+}
+
+.Scroller-Container {
+  position:relative; float:left; width:auto; height:auto;
+}
+
+#Scrollbar-Container {
+  position: relative;
+  float:left;
+}
+
+.scroll{
+	position:relative;
+	float:left;
+	width:auto;
+	height:auto;
+	padding:6px 6px 0 6px;
+	z-index:999;
+}
+
+.Scrollbar-Up {
+  cursor: pointer;
+  position: absolute;
+}
+
+.Scrollbar-Track {
+  width:6px; cursor:pointer;
+  height:315px;
+  position:absolute;
+  left:4px;top:0px;
+  background:url(../imgs/scroll_linea.jpg) repeat-y top center ;
+}
+
+.Scrollbar-Handle {
+  position: absolute;
+}
+.Scrollbar-Down {
+  cursor: pointer;
+  position: absolute;
+}
+
+.contenedor_barra{
+	position:relative; 
+	float:left; 
+	width:28px; 
+	height:200px;
+}

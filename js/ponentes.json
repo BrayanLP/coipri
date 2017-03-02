@@ -1,0 +1,63 @@
+{
+"ponentes":[ 
+  { 
+    "id": 1,
+    "nombre": "Arnaldo",
+    "paterno":"Aguirre",
+    "materno":"Brou",
+    "bandera":"img/bandejas/peru.jpg", 
+    "foto": "img/ponentes/p-1.jpg" ,
+    "lista": [  
+          {"li":"Gerente de Estudios Multiclientes de Arellano Marketing"},
+          {"li":"MBA con 25 años de experiencia nacional e internacional gerenciando las áreas de Marketing y Ventas en empresas nacionales y multinacionales líderes en la comercialización de productos de consumo masivo y de servicios financieros. Orientado al diseño e implementación de estrategias dirigidas a agregar valor y aumentar la rentabilidad. Experto en el diseño y dirección de canales de distribución, desarrollo y lanzamiento de nuevos productos, atención al cliente, publicidad y relaciones públicas. Bilingüe Ingles/Español."}
+    ]
+  },
+  { 
+    "id": 2,
+    "nombre": "Jorge   ",
+    "paterno":"González",
+    "materno":"Izquierdo",
+    "bandera":"img/bandejas/peru.jpg", 
+    "foto": "img/ponentes/p-2.jpg",
+    "lista": [  
+          {"li":"Magister en Economía"},
+          {"li":"Centro de Investigación – Universidad del Pacifico"},
+          {"li":"Decano de la Facultad de Economía, Universidad del Pacífico, 2004 - 2007"},
+          {"li":"Profesor de la Escuela de Postgrado, Universidad del Pacífico, 1999"},
+          {"li":"Profesor del Departamento de Economía, Universidad del Pacífico, 1999"},
+          {"li":"Ministro de Estado en la Cartera de Trabajo y Promoción Social, 1996 - 1999."},
+          {"li":"Consultor de Empresas Nacionales e Internacionales y Profesor en Cursos del Banco Central de Reserva del Perú."}
+    ]
+  },
+  { 
+    "id": 3,
+    "nombre": "Javier ",
+    "paterno":"Valdivia ",
+    "materno":"Rodríguez",
+    "bandera":"img/bandejas/peru.jpg", 
+    "foto": "img/ponentes/p-3.jpg",
+    "lista": [  
+          {"li":"Ingeniero industrial, Consultor en asuntos inmobiliarios, habitacionales y urbanos"},
+          {"li":"Director Ejecutivo del Instituto Ciudades Siglo XXI de la Universidad Ricardo Palma, y asesor de temas Inmobiliarios de CAPECO. Consultor del Banco Interamericano de Desarrollo y Asesor de la Presidencia de la Cámara Peruana de la Construcción (CAPECO). Director Nacional de Vivienda (2002-2004). Viceministro de Vivienda y Urbanismo del Perú (2004-2006). Presidente del Directorio del Banco de Materiales y del Fondo Mivivienda, Miembro del Directorio de la Comisión de Formalización de la Propiedad Informal-COFOPRI (2004-2006). Gerente General del Colegio de Arquitectos del Perú (2000-2002)."}
+    ]
+  }  
+],
+"extranjero":[ 
+  { 
+    "id": 1,
+    "nombre": "Antonio",
+    "paterno":"Hánna",
+    "materno":"Grayeb",
+    "bandera":"img/MEXICO.png", 
+    "foto": "img/ponentes/p-1.jpg",
+    "lista": [  
+          {"li":"Director general de Inmobiliaria Hanna"},
+          {"li":"Presidente de la Confederación Inmobiliaria Latino Americana."},
+          {"li":"Presidente Nacional de la Asociación Mexicana de Profesionales Inmobiliarios (AMPI)."},
+          {"li":"Diplomado en bienes raíces y egresado del I.I. I.C.M.A.C."},
+          {"li":"Miembro Fundador y encargado del comité de honor y justicia de la Asociación Mexicana de Profesionales Inmobiliarios sección Veracruz."}
+
+    ]
+  } 
+]
+}

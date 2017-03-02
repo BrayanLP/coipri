@@ -1,0 +1,282 @@
+[16-May-2012 15:04:53] PHP Warning:  fopen(no-vocher.jpg) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[16-May-2012 15:04:53] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[16-May-2012 15:08:41] PHP Warning:  fopen(no-vocher.jpg) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[16-May-2012 15:08:41] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[29-May-2012 11:33:56] PHP Warning:  fopen(no-vocher.jpg) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[29-May-2012 11:33:56] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[29-May-2012 11:41:23] PHP Warning:  fopen(1338218196Voucher Coipri0001.pdf) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[29-May-2012 11:41:23] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[01-Jun-2012 18:23:27] PHP Warning:  fopen(1338575019Ricardo Pérez Delgado depósito Inscripción COIPRI   01-06-) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[01-Jun-2012 18:23:27] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[01-Jun-2012 18:24:07] PHP Warning:  fopen(1338575019Ricardo Pérez Delgado depósito Inscripción COIPRI   01-06-) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[01-Jun-2012 18:24:07] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[01-Jun-2012 18:27:19] PHP Warning:  fopen(1338575019Ricardo Pérez Delgado depósito Inscripción COIPRI   01-06-) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[01-Jun-2012 18:27:19] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[02-Jun-2012 04:51:36] PHP Warning:  fopen(no-vocher.jpg) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[02-Jun-2012 04:51:36] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[02-Jun-2012 05:01:03] PHP Warning:  fopen(no-vocher.jpg) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[02-Jun-2012 05:01:03] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[02-Jun-2012 05:07:19] PHP Warning:  fopen(no-vocher.jpg) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[02-Jun-2012 05:07:19] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[08-Nov-2012 15:05:50] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[08-Nov-2012 15:05:50] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[08-Nov-2012 15:06:47] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[08-Nov-2012 15:06:47] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[30-Jan-2013 16:53:09] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[30-Jan-2013 16:53:09] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[30-Jan-2013 16:53:31] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[30-Jan-2013 16:53:31] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[12-Feb-2013 19:22:42] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[12-Feb-2013 19:22:42] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-Apr-2013 17:53:47] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-Apr-2013 17:53:47] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-Apr-2013 18:11:20] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-Apr-2013 18:11:20] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-Apr-2013 18:11:20] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-Apr-2013 18:11:20] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-Apr-2013 18:11:21] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-Apr-2013 18:11:21] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[25-May-2013 06:49:33] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[25-May-2013 06:49:33] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[29-May-2013 17:21:28] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[29-May-2013 17:21:28] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[10-Jun-2013 14:27:00] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[10-Jun-2013 14:27:00] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[13-Jun-2013 19:50:19] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[13-Jun-2013 19:50:19] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[14-Jun-2013 18:29:05] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[14-Jun-2013 18:29:05] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[16-Jun-2013 09:00:43] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[16-Jun-2013 09:00:43] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[17-Jun-2013 21:24:57] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[17-Jun-2013 21:24:57] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[17-Jun-2013 21:31:39] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[17-Jun-2013 21:31:39] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[17-Jun-2013 21:31:40] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[17-Jun-2013 21:31:40] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[17-Jun-2013 21:31:40] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[17-Jun-2013 21:31:40] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[26-Jun-2013 19:48:05] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[26-Jun-2013 19:48:05] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[26-Jun-2013 20:20:52] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[26-Jun-2013 20:20:52] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[28-Jun-2013 16:43:47] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[28-Jun-2013 16:43:47] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[02-Jul-2013 16:22:19] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[02-Jul-2013 16:22:19] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[05-Jul-2013 14:17:41] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[05-Jul-2013 14:17:41] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[12-Jul-2013 19:13:15] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[12-Jul-2013 19:13:15] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[16-Jul-2013 12:04:43] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[16-Jul-2013 12:04:43] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[26-Jul-2013 11:22:25] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[26-Jul-2013 11:22:25] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[27-Jul-2013 00:13:16] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[27-Jul-2013 00:13:16] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[27-Jul-2013 00:22:02] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[27-Jul-2013 00:22:02] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[27-Jul-2013 00:22:02] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[27-Jul-2013 00:22:02] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[27-Jul-2013 00:22:03] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[27-Jul-2013 00:22:03] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[27-Jul-2013 00:28:24] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[27-Jul-2013 00:28:24] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[31-Jul-2013 18:53:06] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[31-Jul-2013 18:53:06] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[06-Aug-2013 12:24:35] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[06-Aug-2013 12:24:35] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[06-Aug-2013 12:37:06] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[06-Aug-2013 12:37:06] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[06-Aug-2013 12:37:06] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[06-Aug-2013 12:37:06] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[06-Aug-2013 12:37:07] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[06-Aug-2013 12:37:07] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[08-Aug-2013 23:17:55] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[08-Aug-2013 23:17:55] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[09-Aug-2013 09:43:12] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[09-Aug-2013 09:43:12] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[16-Aug-2013 17:12:47] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[16-Aug-2013 17:12:47] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[16-Aug-2013 17:16:47] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[16-Aug-2013 17:16:47] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[22-Aug-2013 10:57:56] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[22-Aug-2013 10:57:56] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[16-Sep-2013 22:22:52] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[16-Sep-2013 22:22:52] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[18-Sep-2013 23:04:54] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[18-Sep-2013 23:04:54] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-Sep-2013 14:38:37] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-Sep-2013 14:38:37] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-Sep-2013 14:44:20] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-Sep-2013 14:44:20] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Sep-2013 10:47:24] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Sep-2013 10:47:24] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Sep-2013 11:15:08] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Sep-2013 11:15:08] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[22-Sep-2013 12:58:59] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[22-Sep-2013 12:58:59] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[27-Sep-2013 10:54:05] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[27-Sep-2013 10:54:05] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[07-Oct-2013 12:08:23] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[07-Oct-2013 12:08:23] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[10-Oct-2013 06:33:38] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[10-Oct-2013 06:33:38] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[10-Oct-2013 06:42:57] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[10-Oct-2013 06:42:57] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[10-Oct-2013 06:42:58] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[10-Oct-2013 06:42:58] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[10-Oct-2013 06:42:58] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[10-Oct-2013 06:42:58] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[15-Oct-2013 23:13:06] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[15-Oct-2013 23:13:06] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[06-Nov-2013 07:44:39] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[06-Nov-2013 07:44:39] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[09-Nov-2013 09:21:57] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[09-Nov-2013 09:21:57] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[17-Nov-2013 14:48:27] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[17-Nov-2013 14:48:27] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[18-Nov-2013 05:23:51] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[18-Nov-2013 05:23:51] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[18-Nov-2013 20:40:18] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[18-Nov-2013 20:40:18] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[18-Nov-2013 20:48:46] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[18-Nov-2013 20:48:46] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[02-Dec-2013 20:22:00] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[02-Dec-2013 20:22:00] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[02-Dec-2013 20:36:12] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[02-Dec-2013 20:36:12] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[02-Dec-2013 20:36:13] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[02-Dec-2013 20:36:13] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[02-Dec-2013 20:36:14] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[02-Dec-2013 20:36:14] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[22-Dec-2013 18:57:40] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[22-Dec-2013 18:57:40] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[27-Dec-2013 22:08:47] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[27-Dec-2013 22:08:47] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[27-Dec-2013 22:17:26] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[27-Dec-2013 22:17:26] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[27-Dec-2013 22:17:26] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[27-Dec-2013 22:17:26] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[27-Dec-2013 22:17:27] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[27-Dec-2013 22:17:27] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[12-Jan-2014 15:34:14] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[12-Jan-2014 15:34:14] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[22-Feb-2014 20:05:07] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[22-Feb-2014 20:05:07] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[10-Mar-2014 23:01:15] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[10-Mar-2014 23:01:15] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[28-May-2014 11:24:43] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[28-May-2014 11:24:43] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-Jun-2014 08:53:24] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-Jun-2014 08:53:24] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[23-Jun-2014 01:56:51] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[23-Jun-2014 01:56:51] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[01-Jul-2014 21:27:41] PHP Warning:  fopen() [<a href='function.fopen'>function.fopen</a>]: Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[01-Jul-2014 21:27:41] PHP Warning:  fpassthru(): supplied argument is not a valid stream resource in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-Jul-2014 05:36:39 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-Jul-2014 05:36:39 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-Jul-2014 05:38:35 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-Jul-2014 05:38:35 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Jul-2014 20:07:57 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Jul-2014 20:07:57 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[06-Aug-2014 07:04:48 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[06-Aug-2014 07:04:48 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[09-Aug-2014 07:50:10 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[09-Aug-2014 07:50:10 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[21-Aug-2014 19:15:57 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[21-Aug-2014 19:15:57 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[13-Sep-2014 22:58:30 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[13-Sep-2014 22:58:30 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[13-Sep-2014 22:58:30 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[13-Sep-2014 22:58:30 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[13-Oct-2014 17:46:08 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[13-Oct-2014 17:46:08 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:25:15 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:25:15 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:25:17 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:25:17 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:34:50 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:34:50 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:34:51 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:34:52 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:34:52 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:34:52 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:34:52 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:34:52 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:34:52 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:34:54 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:34:54 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 08:49:44 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 08:49:44 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Oct-2014 22:17:30 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Oct-2014 22:17:30 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[09-Nov-2014 16:04:28 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[09-Nov-2014 16:04:28 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[07-Dec-2014 20:43:06 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[07-Dec-2014 20:43:06 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[26-Dec-2014 11:23:16 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[26-Dec-2014 11:23:16 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[29-Dec-2014 22:59:38 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[29-Dec-2014 22:59:38 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[29-Dec-2014 23:01:50 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[29-Dec-2014 23:01:50 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[05-Jan-2015 19:09:31 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[05-Jan-2015 19:09:31 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[16-Jan-2015 18:09:01 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[16-Jan-2015 18:09:01 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[16-Jan-2015 18:20:36 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[16-Jan-2015 18:20:36 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[01-Feb-2015 00:59:16 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[01-Feb-2015 00:59:16 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[01-Feb-2015 01:04:10 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[01-Feb-2015 01:04:10 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[01-Feb-2015 01:17:48 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[01-Feb-2015 01:17:48 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[08-Feb-2015 13:10:45 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[08-Feb-2015 13:10:45 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[07-Mar-2015 07:52:38 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[07-Mar-2015 07:52:38 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[12-Mar-2015 15:51:09 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[12-Mar-2015 15:51:09 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[12-Mar-2015 15:51:10 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[12-Mar-2015 15:51:10 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[26-Mar-2015 18:44:34 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[26-Mar-2015 18:44:34 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[20-Apr-2015 17:43:21 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[20-Apr-2015 17:43:21 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[21-Apr-2015 00:37:11 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[21-Apr-2015 00:37:11 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-May-2015 20:51:01 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-May-2015 20:51:01 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-May-2015 21:01:18 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-May-2015 21:01:18 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-May-2015 21:01:19 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-May-2015 21:01:19 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[19-May-2015 21:01:19 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[19-May-2015 21:01:19 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[31-May-2015 03:02:38 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[31-May-2015 03:02:38 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[11-Jun-2015 20:17:03 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[11-Jun-2015 20:17:03 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[18-Jun-2015 01:17:37 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[18-Jun-2015 01:17:37 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[18-Jun-2015 01:17:37 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[18-Jun-2015 01:17:37 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[30-Jun-2015 11:04:50 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[30-Jun-2015 11:04:50 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[30-Jun-2015 11:04:51 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[30-Jun-2015 11:04:51 America/Chicago] PHP Warning:  fpassthru() expects parameter 1 to be resource, boolean given in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 6
+[08-Jul-2015 19:29:14 America/Chicago] PHP Warning:  fopen(): Filename cannot be empty in /home/co1ipri/public_html/aplication/webroot/imgs/vouchers/force.php on line 5
+[08-Jul-2015 19:29:14 America/Chicago] PHP W

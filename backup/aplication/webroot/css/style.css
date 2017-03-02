@@ -1,0 +1,15 @@
+/********* count down  style **********/
+#defaultCountdown {
+    color:#454545;
+    font: 210px BebasNeueRegular; 
+    float: right;
+}
+.hasCountdown {}
+#defaultCountdown .countdown_amount {
+    font: 210px BebasNeueRegular;
+    line-height: 100px;
+    color: #454545;
+    letter-spacing: -10px;
+}
+#defaultCountdown .countdown_unit{ font-size:20px; font: 76px BebasNeueRegular;}
+

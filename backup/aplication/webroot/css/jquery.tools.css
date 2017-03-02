@@ -1,0 +1,14 @@
+/* single tab */
+ul.css-tabs li {
+    list-style-type:none;
+}
+
+/* link inside the tab. uses a background image */
+ul.css-tabs a {
+    text-decoration:none;
+}
+
+ul.css-tabs a:hover {
+    background-color:#F7F7F7;
+    color:#333;
+}

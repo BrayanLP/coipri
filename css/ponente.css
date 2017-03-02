@@ -1,0 +1,213 @@
+  #cajafk1{opacity:0.3}
+  #cajafk2{opacity:0.3}
+  #cajafk3{opacity:0.3}
+  #cajafk4{opacity:0.3}
+  #cajafk5{opacity:0.3}
+  #cajafk6{opacity:0.3}
+  #cajafk7{opacity:0.3}
+  #cajafk8{opacity:0.3}
+  #cajafk9{opacity:0.3}
+  #cajafk10{opacity:0.3}
+  #cajafk11{opacity:0.3}
+  #cajafk12{opacity:0.3}
+  #cajafk13{opacity:0.3}
+  #cajafk14{opacity:0.3}
+  #cajafk15{opacity:0.3}
+  #cajafk16{opacity:0.3}
+  #cajafk17{opacity:0.3}
+  #cajafk18{opacity:0.3}
+  #cajafk19{opacity:0.3}
+  #cajafk20{opacity:0.3}
+
+  #caja1{opacity:0.3}
+  #caja2{opacity:0.3}
+  #caja3{opacity:0.3}
+  #caja4{opacity:0.3}
+  #caja5{opacity:0.3}
+  #caja6{opacity:0.3}
+  #caja7{opacity:0.3}
+  #caja8{opacity:0.3}
+  #caja9{opacity:0.3}
+  #caja10{opacity:0.3}
+  #caja11{opacity:0.3}
+  #caja12{opacity:0.3}
+  #caja13{opacity:0.3}
+  #caja15{opacity:0.3}
+  #caja{opacity:0.3}
+  #caja{opacity:0.3}
+  #caja{opacity:0.3}
+  #caja{opacity:0.3}
+  #caja{opacity:0.3}
+  #caja20{opacity:0.3}
+#contenedor {
+    width: 1000px;
+    height: auto;
+    overflow: hidden;
+    margin: auto;
+    padding: 0;
+}
+  
+  .flechaactiva{ 
+    background: url("http://coipri.pe/lineselect.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: none;
+    height: 95px;
+    margin-left: 256px;
+    margin-top: -33px;
+    position: absolute;
+    width: 26px;}
+  
+  
+/* ----------------------------------sidebar-left----------------------------------------*/
+
+.sidebar-left{width:290px;min-height:500px;float:left;}
+.active-list a{font-weight:bold;color:#043567 !important;font-size:13px;text-shadow:0px 1px 1px #FFF;margin-left:10px;background:url(../images/un-bullet.png) no-repeat center left !important;width:150px;height:14px}
+.list-sidebar li{height:27px;}
+.list-sidebar a{font-family:DroidSansRegular !important;color:#043567;font-size:12px;text-shadow:0px 1px 1px #FFF;margin-left:10px;background:url(../images/do-bullet.png) no-repeat center left;width:150px;height:14px;padding-left:19px;text-decoration:none !important;}
+.list-sidebar li:hover a{color:#043567 !important;font-size:13px;text-shadow:0px 1px 1px #FFF;margin-left:10px;background:url(../images/un-bullet2.png) no-repeat center left !important;width:150px;height:14px;}
+
+
+/* ----------------------------------contetnt-right----------------------------------------*/
+.content-right{width:630px;min-height:500px;float:left;margin-left:30px;padding-top:20px;}
+.titulo-content-r{font-family:kenyancoffeerg !important;font-size:26px;color:#E3001D;text-shadow:0px 1px 1px #FFF;width:100%;height:30px;margin-bottom:45px;}
+/*promocion*/
+.titulo-content-rp{font-family:kenyancoffeerg !important;font-size:26px;color:#E3001D;text-shadow:0px 1px 1px #FFF;background:url(../images/content-line.png) repeat-x bottom left;width:940px;height:30px;margin:0 auto;margin-bottom:45px;}
+.subtitulo-content-rp{font-family:Arial, Helvetica, sans-serif !important;font-size:12px;color:#777777;text-shadow:0px 1px 1px #FFF;width:940px;height:30px;margin:0 auto;margin-bottom:45px;}
+.titpromoc{font-family:kenyancoffeerg !important;font-size:22px;color:#4C4C4C;text-shadow:0px 1px 1px #FFF;text-align:center;padding-bottom:15px;}
+.fancybox img{width:400px;padding:6px 6px 40px 6px;}
+.imagpromo{background:url(http://coipri.pe/images/bg-promo.png) repeat !important;width:400px;min-height:400px;position:absolute;margin-top:12px;margin-left:12px;display:none;}
+.bxslider li:hover > .imagpromo,.vermas {display:block;}
+/*.menufixe{ background: url("http://coipri.pe/linea-noticias1.png") repeat-y scroll right top rgba(0, 0, 0, 0);
+    height: auto;
+    margin-top: -20px;
+    position: absolute;
+    width: 290px;
+    z-index: 1;
+}
+.menufixe1{background: url("http://coipri.pe/linea-noticias1.png") no-repeat scroll right top rgba(0, 0, 0, 0);
+    height: 23px;
+    margin-top: -3px;
+    position: absolute;
+    width: 289px;
+    z-index: 1;}
+.menufixe2 {
+    background: url("http://coipri.pe/linea-noticias2.png") no-repeat scroll right top rgba(0, 0, 0, 0);
+    height: 46px;
+    position: absolute;
+    width: 289px;
+    z-index: 1;
+}*/	
+.active-list .flechaactiva{display:block}
+.list-sidebar li{padding-top:5px;padding-left:15px;}
+.alto10{height:10px;width:100%;}
+#menuside1{list-style:none !important;background:url(http://coipri.pe/images/thumbs/1.jpg) 0 2px  no-repeat !important;}
+#menuside2{list-style:none !important;background:url(http://coipri.pe/images/thumbs/2.jpg) 0 2px  no-repeat !important;}
+#menuside3{list-style:none !important;background:url(http://coipri.pe/images/thumbs/3.jpg) 0 2px  no-repeat !important;}
+#menuside4{list-style:none !important;background:url(http://coipri.pe/images/thumbs/4.jpg) 0 2px  no-repeat !important;}
+#menuside5{list-style:none !important;background:url(http://coipri.pe/images/thumbs/5.jpg) 0 2px  no-repeat !important;}
+#menuside6{list-style:none !important;background:url(http://coipri.pe/images/thumbs/6.jpg) 0 2px  no-repeat !important;}
+#menuside7{list-style:none !important;background:url(http://coipri.pe/images/thumbs/7.jpg) 0 2px  no-repeat !important;}
+#menuside8{list-style:none !important;background:url(http://coipri.pe/images/thumbs/8.jpg) 0 2px  no-repeat !important;}
+#menuside9{list-style:none !important;background:url(http://coipri.pe/images/thumbs/9.jpg) 0 2px  no-repeat !important;}
+#menuside10{list-style:none !important;background:url(http://coipri.pe/images/thumbs/10.jpg) 0 2px  no-repeat !important;}
+#menuside11{list-style:none !important;background:url(http://coipri.pe/images/thumbs/11.jpg) 0 2px  no-repeat !important;}
+#menuside12{list-style:none !important;background:url(http://coipri.pe/images/thumbs/12.jpg) 0 2px  no-repeat !important;}
+#menuside13{list-style:none !important;background:url(http://coipri.pe/images/thumbs/13.jpg) 0 2px  no-repeat !important;}
+#menuside14{list-style:none !important;background:url(http://coipri.pe/images/thumbs/14.jpg) 0 2px  no-repeat !important;}
+#menuside15{list-style:none !important;background:url(http://coipri.pe/images/thumbs/15.jpg) 0 2px  no-repeat !important;}
+#menuside16{list-style:none !important;background:url(http://coipri.pe/images/thumbs/16.jpg) 0 2px  no-repeat !important;}
+#menuside17{list-style:none !important;background:url(http://coipri.pe/images/thumbs/17.jpg) 0 2px  no-repeat !important;}
+#menuside18{list-style:none !important;background:url(http://coipri.pe/images/thumbs/43.jpg) 0 2px  no-repeat !important;}
+#menuside19{list-style:none !important;background:url(http://coipri.pe/images/thumbs/19.jpg) 0 2px  no-repeat !important;}
+#menuside20{list-style:none !important;background:url(http://coipri.pe/images/thumbs/20.jpg) 0 2px  no-repeat !important;}
+
+#thumb20{list-style:none !important;background-image:url(../img/expositores/exp-n4.jpg)  !important; background-size: 25px 25px; background-repeat: no-repeat;}
+#thumb5{list-style:none !important;background-image:url(../img/expositores/exp-n2.jpg)  !important; background-size: 25px 25px; background-repeat: no-repeat;}
+#thumb6{list-style:none !important;background-image:url(../img/expositores/exp-n3.jpg)  !important; background-size: 25px 25px; background-repeat: no-repeat;}
+#thumb8{list-style:none !important;background-image:url(../img/expositores/exp-e1.jpg)  !important; background-size: 25px 25px; background-repeat: no-repeat;}
+#thumb2{list-style:none !important;background-image:url(../img/expositores/exp-n4.jpg)  !important; background-size: 25px 25px; background-repeat: no-repeat;}
+
+
+
+
+.peru{ background: url("http://coipri.pe/images/peru.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 11px;
+    margin-left: 203px;
+    margin-top: 2px;
+    position: absolute;
+    width: 20px;}
+.eeuu{ background: url("http://coipri.pe/images/eeuu.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+   
+    height: 12px;
+    margin-left: 203px;
+    margin-top: 2px;
+    position: absolute;
+    width: 20px;}
+	
+.espa{ background: url("http://coipri.pe/images/espa.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+   
+    height: 12px;
+    margin-left: 203px;
+    margin-top: 2px;
+    position: absolute;
+    width: 20px;}	
+.urug{ background: url("http://coipri.pe/images/urug.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+   
+    height: 12px;
+    margin-left: 203px;
+    margin-top: 2px;
+    position: absolute;
+    width: 20px;}	
+.bras{ background: url("http://coipri.pe/images/bras.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+   
+    height: 12px;
+    margin-left: 203px;
+    margin-top: 2px;
+    position: absolute;
+    width: 20px;}	
+.colo{ background: url("http://coipri.pe/images/colo.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 12px;
+    margin-left: 203px;
+    margin-top: 2px;
+    position: absolute;
+    width: 20px;}	
+.arge{ background: url("http://coipri.pe/images/arge.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 12px;
+    margin-left: 203px;
+    margin-top: 2px;
+    position: absolute;
+    width: 20px;}	
+.mexi{ background: url("../img/MEXICO.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    height: 12px;
+    background-size: 20px 12px;
+    margin-left: 203px;
+    margin-top: 2px;
+    position: absolute;
+    width: 20px;} 
+.img-expositor{width:150px;height:220px;float:left;}	
+.datos-expositor{width:480px;height:220px;float:left;}
+.datos-expositor p{text-align:right}
+.clear{clear:left;}
+.titulo-expositor{font-family:DroidSansRegular;
+font-size:33px;
+line-height:127%;
+color:rgb(4,53,103);
+text-align:right;
+}
+.cargo-expositor{font-family:Arial, Helvetica, sans-serif;
+font-size:18px;
+font-style:italic;
+line-height:100%;
+color:rgb(46,153,178);
+text-align:right;
+}
+.h35{width:100%;height:35px;}
+.texto-content-r{font-family:DroidSansRegular;
+font-size:13px;
+line-height:146%;
+color:rgb(89,89,89);
+text-align:justify;
+}
+.linea{background:url(http://coipri.pe/images/linea.png) no-repeat;width:630px;height:2px;margin:0 auto;}
+.bulletfk1 li{background:url(http://coipri.pe/images/bullet.png) no-repeat 17px 6px;list-style:none !important;   padding-left: 35px;}
+.bulletfk2 li{background:url(http://coipri.pe/images/bullet2.png) no-repeat 58px 6px;list-style:none !important;   padding-left: 73px;}
+.redesexpositores p{text-align:right;margin-top:40px;}

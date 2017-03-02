@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="">
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,800,700' rel='stylesheet' type='text/css'>
+	<style type="text/css">
+
+		
+		html,body{
+			font-family: 'Open Sans', sans-serif;
+			height: 100%;
+			padding: 0;
+			margin: 0;
+		}
+		.fondo{
+			position: absolute;
+			top: 0;
+			left: 0;
+			bottom: 0;
+			right: 0;
+			background: red;
+			background: url("img/bg-3.png");
+			background-size: 100% 100%;
+			background-size: cover;
+			background-position: 50% 50%;
+			 -webkit-filter: blur(3px)  grayscale(90%); /* Chrome, Safari, Opera */
+    		filter: blur(3px) grayscale(90%);
+    		overflow: hidden; 
+		}
+		.fondo:before{
+			content: '';
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			background: rgba(0,0,0,0.4);
+			z-index: 9;
+		}
+		.relative{
+			position: relative;
+			width: 100%;
+			height: 100%;
+		}
+		.agradecimiento{
+			width: 800px;
+			height: 400px;
+			margin: 0 auto;
+			background: #fff;
+			position: absolute;
+			z-index: 99;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%,-50%);
+			border-radius: 1rem;
+			box-shadow: 0 0 15px rgba(0,0,0,0.2);
+			padding: 0;
+			z-index: 1; 
+		}
+		.agradecimiento h1 {
+		    padding: 1.5rem;
+		    margin: 0;
+		    background: #1684D4;
+		    color: #fff;
+		    top: 0;
+		    text-align: left;
+		    border-radius: 0.9rem 0.9rem 0 0;
+		    border-bottom: 5px solid #0E71B9;
+		}
+		.agradecimiento p{
+			font-size: 1.6rem;
+			text-align: center;
+			 color: #6D6D6D;
+		}
+		.regresar {
+		    text-align: center;
+		    margin: 2.5rem;
+		    padding: 1rem 1.5rem;
+		    background: #8CC543;
+		    border-radius: 1rem;
+		    border-bottom: 4px solid #77A739;
+		    text-decoration: none;
+		    outline: none;
+		    display: inline-block;
+		    color: #fff;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="relative">
+		<div class="fondo">  
+		</div>
+		<div class="agradecimiento">
+			<h1>Muchas Gracias!</h1>
+			<p>Por ponerte en contacto con COIPRI<br> te adenderemos lo mas pronto posible.</p>
+			<p style="text-align:center;">
+			<a href="http://coipri.pe" class="regresar">Regresar</a>
+			</p>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,156 @@
+/* EXAMPLES ------------------------------------------------ */
+
+.demo-wrap ul {
+    /*width: 1000px;*/
+    height: 200px;
+    overflow: hidden;
+}
+
+.demo-wrap li {
+    list-style: none;
+    margin: 0;
+    height: 213px;
+}
+
+.view-examples li {
+    list-style: disc;
+    margin-left: 16px;
+    margin-bottom: 5px;
+}
+
+.view-examples li a {
+    color: #de312a;
+}
+
+.view-examples li a:hover {
+    text-decoration: underline;
+}
+
+/*notes tips*/
+#block-block-5 {
+    border-top: dotted #c3c3c1 1px;
+    margin-top: 20px;
+    padding-top: 15px;
+}
+
+#block-block-5 li {
+    list-style: disc;
+    margin-left: 16px;
+    margin-bottom: 5px;
+}
+
+.not-front .node-content {
+    border-bottom: dotted #c3c3c1 1px;
+    margin-bottom:  20px;
+    padding-bottom: 10px;
+}
+
+.demo-wrap.border {
+    border-top: dotted #c3c3c1 1px;
+    padding-top: 15px;
+}
+
+.demo-wrap.border .bx-window {
+    margin-top: 78px;
+}
+.bx-window{
+    width: 1000px
+}
+.demo-wrap .left {
+    width: 205px;
+    float: left;
+}
+
+.demo-wrap .right {
+    width: 320px;
+    float: left;
+}
+
+.demo-wrap .right .album {
+    margin-top: 60px;
+    font-size: 16px;
+}
+
+.demo-wrap .right .band {
+    font-size: 14px;
+    color: #838383;
+}
+
+.demo-wrap .multiple li {
+    width: 1000px;
+    float: left;
+}
+
+.demo-wrap {
+    margin: 0 auto;
+    width: 1000px;
+    position: relative;
+}
+
+.demo-wrap .bx-prev {
+    position: absolute;
+    top: 78px;
+    left: -22px;
+    width: 31px;
+    height: 31px;
+    text-indent: -999999px;
+    background: url(../imgs/left.png) no-repeat 0 0;
+}
+
+.demo-wrap .bx-next {
+    position: absolute;
+    top: 78px;
+    left: 964px;
+    width: 31px;
+    height: 31px;
+    text-indent: -999999px;
+    background: url(../imgs/right.png) no-repeat 0 0;
+}
+
+.demo-wrap .bx-next:hover,
+.demo-wrap .bx-prev:hover {
+    background-position: 0 0;
+}
+
+.field .field-label {
+    font-size: 14px;
+    color: #838383;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+
+/*start / stop*/
+.bx-auto {
+    text-align: center;	
+}
+
+.bx-start {
+    color: #f1eee7;
+    font-size: 14px;
+    background: #838383;
+    padding: 4px 7px;
+    border-radius: 3px;
+    text-transform: capitalize;
+}
+
+.bx-start:hover {
+    background: #525044;
+    text-decoration: none;
+}
+
+/*pager*/
+.bx-pager {
+    text-align: center;
+}
+
+.bx-pager a {
+    font-size: 16px;
+    color: #838383;
+    padding: 0 10px;
+}
+
+.bx-pager .pager-active,
+.bx-pager a:hover {
+    color: #de312a;
+    text-decoration: none;
+}

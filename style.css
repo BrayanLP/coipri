@@ -1,0 +1,1275 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?ieb14s');
+    src:    url('fonts/icomoon.eot?ieb14s#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?ieb14s') format('truetype'),
+    url('fonts/icomoon.woff?ieb14s') format('woff'),
+    url('fonts/icomoon.svg?ieb14s#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-phone:before {
+    content: "\e942";
+}
+.icon-envelop:before {
+    content: "\e945";
+}
+.icon-location2:before {
+    content: "\e948";
+}
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+
+    /*background: url(img/bg-services.png) repeat;
+    */
+}
+section.incripciones,
+section.contacto{
+    background: url(img/bg-services.png) repeat;
+}
+section{
+    border-bottom: 1px solid #ddd;
+}
+/* =====  NAV  ===== */
+nav {
+    background-color: #124788 !important;
+    height: 70px !important;
+    line-height: 70px !important;
+}
+.container-70{
+    width: 714px;
+    margin: 0 auto;
+}
+ul.ul {
+    padding: 0 0 0 2rem !important;
+}
+ul.ul li{
+    padding: 0.5rem 2rem;
+}
+/*.navbar-fixed {
+    position: absolute !important;
+    z-index: 998;
+}*/ 
+.brand-logo img {
+    height: 50px;
+    position: relative;
+    top: 10px;
+    display: none;
+}
+nav .button-collapse {  
+    height: 70px;
+    margin: 0 1rem;
+}
+a.logo-coipri{
+    left: 2%;
+    height: 100%;
+}
+a.logo-coipri img ,a.logo-organiza img{
+    height: 100%;
+}
+
+/* ===== FIN NAV  ===== */
+
+/* =====  SECTION PRESENTACION  ===== */
+.presentacion {
+    width: 100%;
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    /* position: relative; */
+    height: 643px;
+    overflow: hidden;
+    margin-top: -64px;
+    float: left;
+}
+.presentacion:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(9, 9, 9, 0.28);
+}
+.capaoscura{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.49);
+}
+.partesuperior {
+    color: #fff;
+    background: #043067;
+    padding: 8px;
+    overflow: hidden;
+}
+.partesuperior p{
+    float: left;
+}
+.smoll-redes{
+    float: right;
+}
+
+.capa {
+    width: 65%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: -17%;
+    background: rgba(19, 175, 255, 0.47);
+    border-left: 4px solid rgba(16, 67, 132, 0.53);
+    transform: skew(25deg) translate(0%,0%);
+    -ms-transform: skew(25deg) translate(0%,0%);
+    -webkit-transform: skew(25deg) translate(0%,0%);
+    -moz-transform: skew(25deg) translate(0%,0%);
+    -o-transform: skew(25deg) translate(0%,0%);
+}
+.capa .unskew{ 
+    -ms-transform: skew(-25deg) translate(0%,-50%);
+    -webkit-transform: skew(-25deg) translate(0%,-50%);
+    -moz-transform: skew(-25deg) translate(0%,-50%);
+    -o-transform: skew(-25deg) translate(0%,-50%);
+    transform: skew(-25deg) translate(0%,-50%);
+    width: 500px; 
+    position: absolute;
+    top: 50%; 
+    left: 0%;
+    text-align: center;
+}
+.capa .logo-coipri {
+    width: 320px;
+    display: inline-block;
+}
+.capa .organiza-trans{
+    width: 200px;
+    display: inline-block;
+    padding:6rem 0 0 0 ;
+}
+.capa .logo-coipri img,.capa .organiza-trans img{
+    width: 100%; 
+}
+.capa p {
+    width: 250px;
+    display: inline-block;
+    border-radius: 3px;
+    border-bottom: 4px solid #bd9124;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+    background: #f1c14a;
+    padding: 5px;
+    color: #FFF;
+} 
+div.cont{
+    width: 50%;
+    margin: auto;
+    margin-left: 45%;
+    margin-top: 45px;
+    transform: skew(25deg);
+    background: #65b0c3;
+    box-shadow: 0px 6px 20px 0px rgba(0, 0, 0, 0.2);
+}
+a.btn-cont{
+    border-radius: 2px;
+    display: block;
+    padding: 8px;
+    color: #FEFEFE;
+    font-weight: 600;
+    text-align: center;
+    font-size: 18px;
+    box-shadow: 0 0px #124f9c inset, 0 0px #124f9c inset;
+    transition: .8s all;
+}
+a.btn-cont:hover {
+    box-shadow: 0 100px #124f9c inset, 0 -100px #124f9c inset;
+}
+ /* ------ BIENVENIDA DE COIPRI --------- */
+.item{ 
+}
+.box{
+    box-shadow:0 0 10px rgba(0,0,0,0.22);
+    width: 100%;
+    float: left;
+    padding: 1rem;
+    background:#fff;
+}
+ .welcome{
+    text-align: justify;
+ }
+/* .welcome p {
+    padding-right: 60px;
+}*/
+ .aspai img{
+    width: 147px; 
+ }
+.slider-news .item{
+    overflow: hidden;
+}
+.news-img img{
+    width: 100%; 
+}
+.text-testim {
+    float: left;
+    width: 50%;
+}
+.text-testim a {
+    margin-top: 25px;
+    display: inline-block;
+}
+.text-testim b, .anuncios b b{
+    color: #1b90cc;
+}
+.text-testim p{
+    font-size: 13px;
+} 
+.news-img {
+    float: right;
+    width: 50%;
+}
+.bienvenido .title h2{
+    margin-left: 0px !important;
+}
+.bienvenido .title h2 b, .anuncios b{
+    color: #124788;
+}
+.aspai {
+    padding-top: 35px;
+}
+.aspai p {
+    padding-right: 10px; 
+    float: left;
+}
+.anuncios {
+    width: 50%;
+    float: left;
+}
+
+/*.btn, .btn-large {
+    color: #124788 !important;
+    font-size: 40px !important;
+    font-weight: 600 !important;
+    padding: 0 5px !important;
+    text-shadow: 3px 0px 0px #448fa5 !important;
+    box-shadow: none !important;
+        background-color: initial !important;
+}
+
+*/
+
+
+/* =====  FIN SECTION PRESENTACION  ===== */
+
+/* =====  SECTION PONENTES  ===== */
+.title h2{
+    border-bottom: 3px solid #043067;
+    font-size: 22px;
+    padding: 8px 0 7px 0;
+    display: inline-block;
+    position: relative;
+    margin-left: 14%;
+    margin-right: 10%;
+    font-weight: 600;
+    float: left;
+}
+.title h2:after {
+    content: '';
+    position: absolute;
+    width: 50%;
+    height: 2px;
+    background: #448fa5;
+    bottom: 4px;
+    right: -5%;
+    transform: skew(-50deg);
+}
+
+.title h2:before {
+    content: '';
+    position: absolute;
+    width: 50%;
+    height: 2px;
+    background: #448fa5;
+    bottom: -9px;
+    left: -5%;
+    transform: skew(-50deg);
+}
+.ponentes .slider-ponentes #owl-demo .item{
+    border-radius: 7px;
+    /*background: #72CDF5;*/
+    margin: 10px 15px 10px 15px;
+    box-shadow: 0px 5px 13px #ABABAB;
+}
+.ponentes .slider-ponentes #owl-demo img{
+    width: 100%;
+    min-height: 100%;
+}
+.no-cv a.btn-plus ,.no-cv .cont-expositores:hover a.btn-plus{
+    display: none !important;
+}
+.img-ponente img {
+    width: 100%;
+    height: 100%;
+}
+.img-ponente {
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    overflow: hidden;
+    display: inline-flex;
+    margin-bottom: 18px;
+    border-bottom: 3px solid #717070;
+}
+.des-ponente{
+    position: relative;
+    padding: 10px;
+}
+.des-ponente .pais{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    top: -27px;
+    left: 50%;
+    transform: translateX(-50%)translateY(-50%);
+}
+.des-ponente .pais img{
+    width: 100%;
+    height: 100%;
+}
+.des-ponente a{
+    display: inherit;
+    margin: 8px;
+    position: relative;
+}
+.des-ponente a:before{
+    content: '';
+    width: 5%;
+    height: 2px;
+    background: #186594;
+    position: absolute;
+    bottom: -2px;
+    left: 50%;
+    transition: .5s all;
+    transform: translateX(-50%)translateY(-50%);
+}
+.des-ponente a:hover:before{
+    width: 90%;
+    background: #5FAAD8;
+}
+.des-ponente a p{
+    text-align: center;
+    color: #186594;
+    font-weight: 600;
+    font-size: 18px;
+    text-shadow: 2px 1px 7px #5A5A5A;
+    transition: .5s all;
+}
+.des-ponente a:hover p{
+    color: #5FAAD8;
+}
+.des-ponente div.cont{
+    transform: skew(0deg);
+    margin-top: 0;
+    margin-left: 0;
+    margin: auto;
+    width: 90%;
+    margin-bottom: 10px !important;
+    transition: .5s all;
+}
+.des-ponente div.cont:hover{
+    box-shadow: 2px 4px 7px rgba(64, 53, 53, 0.69);    
+    -webkit-transform: translateY(-3px);
+ -moz-transform: translateY(-3px);
+ -ms-transform: translateY(-3px);
+ -o-transform: translateY(-3px);
+ transform: translateY(-3px);
+}
+/* =====  FIN SECTION PRESENTACION  ===== */
+
+/* =====  INICIO SECTION MAPA UBICACION  ===== */
+.box-map{
+    padding: 10px;
+    border-bottom: 6px solid #28869e;
+    background: #65b0c3;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 2px 4px 7px rgba(64, 53, 53, 0.69);    
+}
+.mapa{
+    height: 400px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.info{
+    padding: 10px !important;
+    margin-top: 25px;
+    position: relative;
+}
+.info span{
+    padding: 16px;
+    border-radius: 50%;
+    background: #124f9c;
+    color: white;
+    font-size: 25px;
+    display: table;
+    margin: auto;
+    position: absolute;
+    top: 8%;
+    left: 11%;
+    transform: translateX(-50%)translateY(-50%);
+}
+.info p{
+    border: 5px solid #D6D6D6;
+    text-align: center;
+    padding: 12px;
+    color: black;
+    margin: 8px;
+    background: #fff;
+    border-radius: 40px;
+}
+/* =====  FIN SECTION MAPA UBICACION  ===== */
+
+/* =====  INICIO SECTION REDES  ===== */
+
+.tres-redes{
+    margin: 5px;
+    padding: 5px;
+    border: 4px solid #65b0c3;
+    background: #fff;
+    box-shadow: 9px 8px 18px rgba(0, 0, 0, 0.2);
+}
+.tres-redes h3:before {
+    content: '';
+    position: absolute;
+    width: 30%;
+    height: 3px;
+    background: #043067;
+    bottom: 0;
+}
+.tres-redes h3 {
+    font-size: 23px;
+    display: inline-flex;
+    padding: 10px;
+    color: #585858;
+    font-weight: 600;
+    margin: 5px !important;
+    position: relative;
+}
+.tres-redes p {
+    padding: 10px;
+    text-align: justify;
+    font-size: 14px;
+}
+.tres-redes ul li {
+    padding: 5px;
+    display: inline-flex;
+}
+.tres-redes ul {
+    padding: 10px;
+}
+.tres-redes ul li a {
+    margin-left: 10px;
+    padding: 3px;
+    color: #585858 !important;
+    position: relative;
+}
+.tres-redes ul li i {
+    color: #043067;
+    font-weight: 600;
+}
+.tres-redes ul li a:hover:before {
+    width: 100%;
+}
+.tres-redes ul li a:before {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    background: #043067;
+    bottom: 0;
+    left: 0;
+    transform: translateX(0);
+    transition: .5s all;
+}
+.fondoazul{
+    background: #043067;
+}
+.fondoazul img{
+    width: 100%; 
+}
+/* =====  FIN SECTION REDES  ===== */
+
+/*===========   NOSOTROS   ===============*/
+.img-detras{
+    display: inline-flex;
+    height: 500px;
+    position: relative;
+    box-shadow: 9px 8px 18px rgba(0, 0, 0, 0.2), 9px 8px 18px rgba(0, 0, 0, 0.2);
+}
+.img-detras img{
+    width: 100%; 
+}
+.cont-text{
+    position: absolute;
+    height: 100%;
+    width: 50%;
+    left: 0;
+    bottom: 0;
+    padding: 40px;
+    background: #fff;
+    box-shadow: 9px 8px 18px rgba(0, 0, 0, 0.2);
+    text-align: justify;
+}
+.cont-text p b, .cont-text p b.as{
+    font-size: 18px;
+    color: #043067;
+}
+.cont-text p b.as{
+    color: #65b0c3;
+}
+.cont-text ul li i{
+    font-size: 20px;
+    font-weight: 600;
+}
+.textvideo{
+    text-align: justify;
+}
+.videocoipri {
+    padding: 14px;
+    background: gainsboro;
+}
+
+/*===========   EXPOSITORES   ===============*/
+.cont-expositores,.cont-img,.cont-img img,.cont-info{
+    width: 100%;
+    float: left;
+    position: relative;
+}
+.cont-expositores {
+    margin: 1rem 0;
+}
+.cont-img > img {
+    transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    border-radius: 50%;
+}
+.cont-img{
+    overflow: hidden;
+}
+.bandera{
+    width: 50px;  
+    position: absolute;
+    top: 10px;
+    right: -100px; 
+    transition: 0.3s all; 
+}
+.bandera img{
+    width: 100%;
+}
+.cont-expositores:hover .bandera{
+    right:  10px;
+}
+.cont-expositores:hover a.btn-plus{
+    opacity: 1; 
+}
+.cont-expositores h2{
+    text-transform: uppercase;
+}
+.cont-info h2 {
+    font-size: 1.5rem !important;
+    margin: 1rem 0 !important;
+    /* height: 60px; */
+    text-align: center;
+    border-left: 3px solid #226cab;
+    padding: 0.5rem 0;
+    color: #2c85d2;
+}
+.cont-info a.btn-plus {
+    position: absolute;
+    top: -30px;
+    right: -30px;
+    padding: 0.7rem;
+    background: #3294e8;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    color: #fff;
+    opacity: 0;
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.42);
+}
+/*=============   FIN EXPOSITORES  ============*/
+/* =================  PRESIDENTE   ================*/
+.president img {
+    box-shadow: 9px 8px 18px rgba(0, 0, 0, 0.2);
+}
+
+
+/*======  FIN PRESIDENTE  ===========*/
+
+/*====  PROGRAMA  ========*/
+
+.card-image{
+    background: #043067;
+}
+i.az-more_vert {
+    position: absolute;
+    right: 10px;
+    bottom: 40px;
+}
+.card-reveal p {
+    padding: 1rem 0;
+    text-align: justify;
+}
+span.card-title.grey-text.text-darken-4{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold !important;
+    color: #0097d8 !important;
+}
+i.az-close {
+    color: red;
+}
+/*===== FIN PROGRAMA   ===*/
+
+
+
+/*============   INCRIPCION   ==============*/
+/*.inversion{
+    border: 1px solid red;
+}*/
+.precios{
+    margin: 15px;
+    width: 250px;
+    height: 230px;
+    padding: 50px;
+    background: #65b0c3;
+    color: #fff;
+    border-radius: 50%;
+    position: relative;
+    font-size: 20px;
+    text-align: center;
+}
+.limite{
+    position: absolute;
+    text-align: center;
+    width: 80%;
+    top: 96%;
+    left: 50%;
+    border-bottom: 5px solid #063875;
+    padding: 8px;
+    background: #0c4e9e;
+    border-radius: 10px;
+    box-shadow: 9px 8px 18px rgba(0, 0, 0, 0.2);
+    transform: translateX(-50%)translateY(-50%);
+}
+.formapago{
+    padding: 15px;
+    background: #ddd;
+}
+.ficha a {
+    padding: 10px 25px;
+    margin: 30px;
+    display: table;
+    color: #fff;
+    font-size: 17px;
+    background: #f2be59;
+    border-radius: 5px;
+    border: 1px solid #cca04c;
+    border-bottom: 3px solid #cca04c;
+    transition: .5s all;
+}
+.ficha a:hover {
+    background: #e8ac37;
+}
+/*============  FIN INCRIPCION   ==============*/
+/*============   CONTACTOS   ==============*/
+
+.ins {
+    background: #fff; 
+} 
+.ins p i {
+    background: #65b0c3;
+    color: #fff;
+    border-radius: 50%;
+    padding: 7px;
+    margin-right: 10px;
+}
+
+
+/*============   FIN CONTACTO   ==============*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* =====  INICIO SECTION FOOTER  ===== */
+ul.right { 
+    padding: 0 1rem 0 0;
+}
+footer {
+    background: #65b0c3;
+}
+.sub-menu {
+    width: auto;
+    background: #28869e;
+    margin: auto;
+    text-align: center;
+    color: #fff;
+}
+.sub-menu a {
+    display: inline-block;
+    padding: 1rem;
+    color: #fff !important;
+}
+#footer .cont-img {
+    padding: 1rem;
+    text-align: center;
+}
+#footer .cont-img span {
+    text-align: center;
+    font-size: 55px;
+    background: #28869e;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    display: inline-block;
+    border-radius: 50%;
+    color: #fff;
+    position: relative;
+    text-shadow: 3px 3px 0 rgba(0,0,0,0.3);
+}
+#footer .cont-img span:after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: calc(50% - 5px);
+    width: 10px;
+    height: 10px;
+    background: #28869e;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+#footer .redes a {
+    background: #28869e;
+}
+#footer .container .cont-info {
+    padding: 1rem;
+}
+.redes a {
+    background: #51A1D9;
+    border-radius: 50%;
+    margin: 0 0.2rem;
+    box-sizing: border-box;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+    color: #fff !important;
+}
+h3 {
+    font-size: 1.5rem !important;
+    text-align: center;
+    color: #F1F1F1;
+    font-weight: 400;
+}
+.cont-info p, .cont-info div {
+    text-align: center;
+}
+footer p {
+    color: #224E6C !important;
+}
+footer a {
+    color: #fff !important;
+}
+.copy {
+    width: 100%;
+    float: left;
+    background: #28869e;
+    height: 52px;
+    line-height: 52px;
+    text-align: center;
+}
+.copy p{
+    padding: 0 !important;
+    text-align: center !important; 
+}
+section.footer {
+    background: #26292f;
+}
+.padding-none{
+    margin: 0 !important;
+}
+.trans{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.trans .logo-congreso-enmedio{
+    width: 275px;
+    height: 90px;
+    margin: auto;
+}
+.logo-congreso-enmedio img{
+    width: 100%;
+    min-height: 100%;
+}
+/*.hola{
+    border: 1px solid green;
+}*/
+.hola .des-footer{
+    margin: auto;
+    display: table;
+}
+.des-footer p{
+    border-right: 1px solid #0094d3;
+    display: inline-block;
+    color: #fff;
+    padding: 4px 10px;
+}
+.des-footer p a{
+        padding: 4px;
+    color: #f14a4a;
+    position: relative;
+}
+.des-footer p a:hover:before {
+    width: 100%;
+}
+.des-footer p a:before {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -2px;
+    left: 0;
+    transition: .5s all;
+    background: #f14a4a;
+    transform: translateX(0);
+}
+
+/* =====  FIN SECTION FOOTER  ===== */
+/* === MODAL ===*/
+.modal h1, .modal h2, .modal h3, .modal h4 {
+    margin-top: 0;
+    padding: 1rem;
+    background: #1c95e2;
+    color: #fff;
+}
+h4 {
+    font-size: 1.7rem !important;
+}
+.modal .modal-content {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+ul.ul li:before {
+    content: '\ead7';
+    font-family: 'Seo' !important;
+    position: absolute;
+    left: 0;
+    width: 30px;
+    height: 30px;
+    color: #04507f;
+}
+ul li {
+    position: relative;
+    padding: 0 1rem;
+}
+p {
+    font-size: 17px;
+    padding: 0 1rem  0 0;
+    margin: 0;
+    text-align: justify;
+    color: #013758;
+}
+.btn, .btn-large {
+    text-decoration: none;
+    color: #fff;
+    background-color: #0678be;
+    text-align: center;
+    letter-spacing: .5px;
+    transition: .2s ease-out;
+    cursor: pointer;
+}
+/* == FIN MODAL == */
+
+/*=============   CAMBIOS EN EL CSS DE MATERIALIZECSS   ======*/
+.navbar-fixed,nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+    height: 70 !important;
+    line-height: 70px !important; 
+}
+nav ul a:hover {
+    background-color: rgba(39, 110, 179, 0.28) !important;
+}
+nav ul li a{
+ position: relative;
+ overflow: hidden;
+}
+nav ul li > a:before{
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    height: 3px;
+    width: 100%;
+    background: #fff;
+    transition: 0.3s all;
+}
+nav ul li a:hover:before{
+    bottom: 0;
+}
+.dropdown-content li a:before{ 
+}
+.dropdown-content li>a, .dropdown-content li>span {
+    color: #124788 !important;
+    text-align: center; 
+}
+.dropdown-content li:hover{ 
+
+}
+.dropdown-content li:hover { 
+}
+.dropdown-content li:hover a { 
+    color: #fff !important;
+    background: #124788 !important;
+}
+
+.titulo {
+    width: 100%;
+    float: left;
+}
+.titulo h2 {
+    font-size: 1.9rem!important;
+    text-align: center;
+    background:#124788;
+    padding: 1rem 0;
+    margin: 0!important;
+    color: #fff;
+}
+.incripciones .box,
+.contacto .box{
+    float: left;
+    width: 100%; 
+    box-shadow: 0 0 11px 1px rgba(0,0,0,.25);
+    margin: 1rem auto;
+    padding: 0 !important;
+}
+th {
+    background:#124788;
+    color: #fff;
+    border-radius: 0 !important;
+}
+
+
+/* MEDIAS */
+
+
+
+.auspicia #owl-auspiciadores .item {
+background: none;
+    /* padding: 10px; */
+    margin: 10px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    width: 110px;
+    height: 100%; 
+}
+.customNavigation{
+  text-align: center;
+    float: left;
+    line-height: 91px;
+}
+.customNavigation a{
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.auspicia #owl-auspiciadores .item img{
+    width: 100%;
+    min-height: 100%;
+    background: rgba(228, 228, 228, 0.67);
+    padding: 8px;
+    border-radius: 5px;
+}
+.relative{
+    position: relative !important;
+}
+.auspicia {
+    position: absolute;
+    bottom: 0px;
+    right: 0;
+    width: 59%;
+    left: 0;
+    background: none;
+    z-index: 9 ;
+}
+.auspiciador h2{
+    color: #28869e;
+}
+
+/* MODIFICACIONES 01/07/2016 BRAYAN LP*/
+.title,.welcome,.aspai {
+    width: 100%;
+    float: left;
+}
+/* BLOG */
+.cont-blog {
+    margin: 0 !important;
+}
+.cont-blog {  
+    background: #FFFFFF;
+    box-shadow: 0 0 15px rgba(0,0,0,0.22);
+    margin: 2rem 0 !important;
+    width: 100%;
+    float: left;
+    
+}
+ul .cont-blog{
+    height: 480px;   
+}
+.cont-info{
+    padding: 1rem;
+}
+.cont-info, .cont-img, .cont, section, footer {
+    float: left;
+    width: 100%;
+    position: relative;
+}
+.cont-img, .cont, section, footer {
+    overflow: hidden;
+}
+.cont-blog h3 {
+    color: #656565;
+}
+.cont-blog p {
+    color: gray;
+    padding: 1rem 0;
+    text-align: justify;
+}
+.btn-blog{
+    width: 50px;
+    height: 50px;
+    background: #124788;
+    color: #fff;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+    position: absolute !important;
+    top: -25px;
+    right: 20px;
+    z-index: 999;
+    box-shadow: 0px 3px 10px rgba(6, 6, 6, 0.57);
+    opacity: 0;
+}
+.cont-blog:hover .btn-blog{
+    opacity: 1;
+}
+.redes-h > div{
+    width: 33.3%;
+    float: left; 
+    padding: 1rem; 
+    margin: 1rem 0; 
+}
+.redes-h div a{
+    color: #fff;
+}
+.redes-h div a span{
+    font-size: 1.5rem;
+    text-shadow: 2px 2px 10px rgba(0,0,0,0.22);
+}
+.redes-h div:nth-child(1){
+    background: #3B5998;
+}
+.redes-h div:nth-child(2){
+    background: #1DA1F2;
+}
+.redes-h div:nth-child(3){
+    background: #0077B5;
+}
+/*AUSPICIADOR*/
+.auspiciador{
+    text-align: center;
+}
+.aus{
+    float: left;
+    width: 300px;
+}
+.aus1{
+    float: left;
+    width: 250px;
+}
+.aus1 img{
+    width: 100%;
+}
+.aus img{
+    width: 100%;
+}
+/*INSCRIPCIONES*/
+.info-contacto {
+    float: left;
+    width: 100%;
+}
+.info-contacto > p {
+    padding: 1rem;
+}
+/* SCROLL CARD REVEAL  */
+
+div.card-reveal::-webkit-scrollbar,
+div.modal::-webkit-scrollbar {
+    width: 1rem;
+    background: #D6D6D6
+}
+
+div.card-reveal::-webkit-scrollbar-button,
+div.modal::-webkit-scrollbar-button {
+    width: 0;
+    height: 0
+}
+
+div.card-reveal::-webkit-scrollbar-track,
+div.modal::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 1);
+    -webkit-border-radius: 2px;
+    border-radius: 2px
+}
+
+div.card-reveal::-webkit-scrollbar-thumb,
+div.modal::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, .2);
+    border-radius: 10px;
+    -webkit-border-radius: 10px
+}
+
+div.card-reveal::-webkit-scrollbar-thumb:window-inactive,
+div.modal::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(255, 255, 255, 0)
+}
+
+/* RESPONSIVE*/
+/*MEDIANO*/
+@media only screen and (max-width: 992px){
+ 
+    #baner > img{
+        width: 222%;
+    }
+    .capa .logo-coipri {
+        width: 278px !important; 
+    }
+    .capa .organiza-trans {
+        width: 180px !important; 
+    }
+    .navbar-fixed { 
+        z-index: 999 !important;
+    }
+    .cont-text {
+    position: initial !important;
+    height: auto !important;
+    width: 100%;
+    padding: 1rem !important; 
+    }
+    .img-detras img { 
+        display: none;
+    }
+    .img-detras { 
+        height: auto !important;
+         
+    }
+} 
+@media only  screen and (max-width: 600px){
+    #baner > img{
+    width: 304%;
+    }
+    .capa .unskew {
+    left: 50% !important; 
+    width: 100% !important;
+    -ms-transform: skew(0) translate(-50%,-50%);
+    -webkit-transform: skew(0) translate(-50%,-50%);
+    -moz-transform: skew(0) translate(-50%,-50%);
+    -o-transform: skew(0) translate(-50%,-50%);
+    transform: skew(0) translate(-50%,-50%);
+    }
+    .capa .organiza-trans { 
+    padding: 3rem 0 0 0 !important;
+    }
+    .capa p { 
+    margin-top: 16px !important; 
+    }
+    .capa .logo-coipri {
+    width: 212px !important;
+    }
+    .presentacion { 
+    height: 100% !important; 
+    }
+    .capa {
+    width: 100% !important;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0 !important;
+    background: rgba(19, 175, 255, 0.47);
+    border-left: 4px solid rgba(16, 67, 132, 0.53);
+    transform: skew(0);
+    -ms-transform: skew(0);
+    -webkit-transform: skew(0);
+    -moz-transform: skew(0);
+    -o-transform: skew(0);
+    }  
+    .brand-logo img { 
+        display: block !important;
+    }
+    .cont-expositores a.btn-plus {
+    opacity: 1 !important;
+    right: 17px !important;
+    }
+}
+@media only screen and (min-width: 993px){
+    .dropdown-content {
+    top: 70px !important;
+    background-color: rgba(255,255,255,1) !important;
+    width: 160px !important;
+    }
+    .dropdown-content li {
+        clear: none; 
+        width: 100%; 
+    }
+}

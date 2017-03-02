@@ -1,0 +1,1065 @@
+#form{
+    color: #595959;
+    float: left;
+    margin: 0 0 15px;    
+    position: relative;
+}
+#form h1{
+    font: 20px 'ProximaNovaExtrabold';
+    color: #03417F;
+    font-weight: bold;    
+}
+#form .left-form{
+    width: 330px;
+    float: left;
+}
+#form .left-form h4{
+    font: 15px 'ProximaNovaExtrabold';
+    color: #043465;
+    margin: 10px 0;
+}
+#form .left-form .cont-left{
+    background: #EFF1F4;
+    padding: 15px 28px;
+}
+#form .left-form .cont-left .tar{
+    
+}
+#form .left-form .cont-left .tar .tar-pre div{
+    height: 25px;
+}
+#form .left-form .cont-left .tar .tar-pre .jqTransformRadioWrapper{
+    float: right;
+}
+#form .left-form .cont-left .tar .tar-pre label span{
+    font: 13px 'DroidSansBold';
+}
+#form .left-form .cont-left .tar h4{
+    color: #043465;
+}
+#form .left-form .cont-left .tar p{
+    color: #338fa4;
+}
+#form .left-form .cont-left .tar p span{
+    font: 13px 'DroidSansBold';
+}
+#form .left-form .cont-left .tar p span a{
+    color: #338FA4;
+    text-decoration: none;
+}
+#form .left-form .cont-left .tar p span a:hover{
+    text-decoration: underline;
+}
+#form .left-form .cont-left .tar div label{
+    float: left;
+}
+#form .left-form .cont-left .tar div input{
+    float: right;
+}
+#form .cont-form .tot{
+    width: 50%;
+    float: left;
+	height:170px;
+}
+#form .cont-form .tot .con .jqTransformInputWrapper{
+    float: right;
+}
+#form .cont-form .tot .con span{
+    float: left;
+}
+#form .cont-form .tot .con input{
+    float: right;
+}
+#form .cont-form .depo{
+    width: 45%;
+    float: right;
+    margin: 8px 0px;
+    border: 3px solid #00A2DF;
+    padding: 7px;
+}
+
+#form .cont-form .depoextra{
+    width: 45%;
+    float: right;
+    margin:  0px;
+    border: 3px solid #00A2DF;
+    padding: 7px;
+	text-align:center;
+background:#00A2DF;
+color:#FFF;
+
+}
+#form .cont-form .depoextra a{
+ 
+color:#043567;
+
+}
+
+
+
+
+
+#form .cont-form .formas{
+    height: 115px;
+}
+#bloquea{
+    background: #FFF;
+    width: 100%;
+    height: 100%;
+    opacity: 0.7;
+    position: absolute;
+    z-index: 100;
+}
+#bloquea .bloimg{
+    margin: 55px 0 0;
+}
+
+#form .left-form .cont-left .formpago{
+    
+}
+#form .left-form .cont-left .formpago h4{
+    color: #043465;
+}
+#form .left-form .cont-left .formpago span{
+    color: #338fa4;
+}
+#form .left-form .cont-left .formpago .boucher{
+    
+}
+#form .left-form .foot-left{
+    
+}
+#form .cont-form{
+    width: 640px;
+    float: right;
+    margin: 5px 0px 5px 30px;
+    position: relative;
+}
+#form .cont-form span{
+    color: #338fa4;
+}
+#form .cont-form h4{
+    font: 15px 'ProximaNovaExtrabold';
+    color: #03417F;
+    margin: 0 0 13px 0;
+}
+#form .cont-form h4 label{
+    color:#338FA4;
+}
+#confirmacion{
+    background: white;
+    position: absolute;
+    z-index: 100;
+    width: 100%;
+    height: 100%;
+    opacity: 0.9;
+}
+#confirmacion .centro{
+    background: #2999AA;
+    padding: 10px;
+    margin: 142px;    
+}
+#confirmacion .centro p{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+#formincrip1{
+}
+#formincrip1 .fich{
+    float: left;
+    width: 100%;    
+    margin: 0 0 10px;
+}
+#formincrip1 .fich label{
+    color: #338FA4;
+}
+#formincrip1 .fich .obliga{
+    color: red;
+    position: absolute;
+    right: 1px;
+    top: 1px;      
+    font: 10px arial;
+}
+#formincrip1 .fich .asocc{
+    width: 100%;
+    height: 55px;
+    position: relative;
+}
+#formincrip1 .fich .asocc div{
+    position: relative;
+    float: left;
+    padding: 13px 10px 0 0;
+}
+
+#formincrip1 .fich .gener{
+    
+}
+#formincrip1 .fich .gener .iz{
+    width: 49%;
+    float: left;
+    margin-right: 5px;
+}
+#formincrip1 .fich .gener .iz div, #formincrip1 .fich .gener .de div{
+    height: 31px;
+    position: relative;
+    padding: 13px 10px 0 0;
+}
+#formincrip1 .fich .gener .iz .lab{
+    float: left;
+    width: 40%;
+}
+
+#formincrip1 .fich .gener .iz input{
+    float: right;
+}
+#formincrip1 .fich .gener .de{
+    width: 49%;
+    float: right;
+    margin-left: 5px;
+}
+#formincrip1 .fich .gener .de  .lab{
+    float: left;
+    width: 40%;    
+}
+#formincrip1 .fich .gener .de  .obliga{
+    position: absolute;
+    right: 1px;
+    top: 1px;
+}
+#formincrip1 .fich .gener .de input{
+    float: right;    
+}
+#formincrip1 .asereg{
+    float: left;
+    margin: 0 0 10px;    
+    width: 100%;
+}
+#formincrip1 .asereg .options{
+    height: 20px;
+}
+#formincrip1 .asereg .options .asesorinm{
+    float: left;
+    width: 230px;
+}
+#formincrip1 .asereg .options .asesorinm span{
+    float: left;
+}
+#formincrip1 .asereg .options .regisvivi{
+    float: left;
+}
+#formincrip1 .asereg .options .textase{
+    margin: 5px 0;
+}
+#formincrip1 .asereg .options .yesno{
+    margin: 5px;
+}
+#formincrip1 .asereg .options .yesno{
+    color: #595959;
+    font: bold 12px arial;
+}
+#formincrip1 .asereg .areass{
+    
+}
+#formincrip1 .asereg .areass span{
+    width: 100%;
+    height: 20px;
+    float: left;
+}
+#formincrip1 .asereg .areass input{
+    float: left;
+}
+#formincrip1 .adic{
+    float: left;
+    width: 100%;
+    margin: 0 0 10px;
+}
+#formincrip1 .adic .adiccion{
+    height: 23px;
+}
+#formincrip1 .adic .adiccion label{
+    float: left;
+    margin: 0px 13px 0px 0;
+}
+#formincrip1 .adic .adiccion label b{
+    font: 13px 'DroidSansBold';
+    color: #338FA4;
+}
+#formincrip1 .adic span{
+    color: #338FA4;
+    float: left;
+    width: 30%;
+    margin: 0;
+}
+#formincrip1 .adic input{
+    float: left;
+}
+#formincrip1 .bot-form{
+    background: url(../imgs/bot-forms.png) no-repeat scroll 0 0 transparent ;
+    width: 100%;
+    height: 10px;
+    float: left;    
+    margin: 5px 0;
+}
+
+#formincrip1 .datos{
+    float: left;
+    width: 595px;
+    margin: 0 0 10px;
+    background: url(../imgs/bg-datos-form.jpg) no-repeat scroll 0 0 transparent;    
+    padding: 5px 20px;
+}
+#formincrip1 .datos .put{
+    margin: 10px;
+    height: 40px;
+}
+#formincrip1 .datos .put .direccion{
+    width: 95%;
+}
+#formincrip1 .datos .put .iz{
+    float: left;
+    width: 50%;
+}
+#formincrip1 .datos .put .de{
+    float: right;
+    width: 45%;
+}
+#formincrip1 .datos .put span{
+    color: #338FA4;
+    float: left;
+    width: 254px;
+}
+#formincrip1 .datos .put input{
+    width: 250px;
+}
+#formincrip1 .btns-form{
+    float: left;
+    width: 100%;    
+}
+#formincrip1 .btns-form .import{
+    color: red;
+    font: 10px arial;
+}
+/*-----------------------*/
+#formincrip2{
+}
+#formincrip2 .fich{
+    float: left;
+    width: 100%;    
+    margin: 0 0 10px;
+}
+#formincrip2 .fich label{
+    color: #338FA4;
+}
+#formincrip2 .fich .obliga{
+    color: red;
+    position: absolute;
+    right: 1px;
+    top: 1px;      
+    font: 10px arial;
+}
+#formincrip2 .fich .asocc{
+    width: 100%;
+    height: 55px;
+    position: relative;
+}
+#formincrip2 .fich .asocc div{
+    position: relative;
+    float: left;
+    padding: 13px 10px 0 0;
+}
+
+#formincrip2 .fich .gener{
+    
+}
+#formincrip2 .fich .gener .iz{
+    width: 49%;
+    float: left;
+    margin-right: 5px;
+}
+#formincrip2 .fich .gener .iz div, #formincrip2 .fich .gener .de div{
+    height: 31px;
+    position: relative;
+    padding: 13px 10px 0 0;
+}
+#formincrip2 .fich .gener .iz .lab{
+    float: left;
+    width: 40%;
+}
+
+#formincrip2 .fich .gener .iz input{
+    float: right;
+}
+#formincrip2 .fich .gener .de{
+    width: 49%;
+    float: right;
+    margin-left: 5px;
+}
+#formincrip2 .fich .gener .de  .lab{
+    float: left;
+    width: 40%;    
+}
+#formincrip2 .fich .gener .de  .obliga{
+    position: absolute;
+    right: 1px;
+    top: 1px;
+}
+#formincrip2 .fich .gener .de input{
+    float: right;    
+}
+#formincrip2 .asereg{
+    float: left;
+    margin: 0 0 10px;    
+    width: 100%;
+}
+#formincrip2 .asereg .options{
+    height: 20px;
+}
+#formincrip2 .asereg .options .asesorinm{
+    float: left;
+    width: 230px;
+}
+#formincrip2 .asereg .options .asesorinm span{
+    
+}
+#formincrip2 .asereg .options .regisvivi{
+    float: left;
+}
+#formincrip2 .asereg .options .textase{
+    margin: 5px 0;
+}
+#formincrip2 .asereg .options .yesno{
+    margin: 5px;
+}
+#formincrip2 .asereg .options .yesno{
+    color: #595959;
+    font: bold 12px arial;
+}
+#formincrip2 .asereg .areass{
+    
+}
+#formincrip2 .asereg .areass span{
+    width: 100%;
+    height: 20px;
+    float: left;
+}
+#formincrip2 .asereg .areass input{
+    float: left;
+}
+#formincrip2 .adic{
+    float: left;
+    width: 100%;
+    margin: 0 0 10px;
+}
+#formincrip2 .adic .adiccion{
+    height: 23px;
+}
+#formincrip2 .adic .adiccion label{
+    float: left;
+    margin: 0px 13px 0px 0;
+}
+#formincrip2 .adic .adiccion label b{
+    font: 13px 'DroidSansBold';
+    color: #338FA4;
+}
+#formincrip2 .adic span{
+    color: #338FA4;
+    float: left;
+    width: 30%;
+    margin: 0;
+}
+#formincrip2 .adic input{
+    float: left;
+}
+#formincrip2 .bot-form{
+    background: url(../imgs/bot-forms.png) no-repeat scroll 0 0 transparent ;
+    width: 100%;
+    height: 10px;
+    float: left;    
+    margin: 5px 0;
+}
+
+#formincrip2 .datos{
+    float: left;
+    width: 595px;
+    margin: 0 0 10px;
+    background: url(../imgs/bg-datos-form.jpg) no-repeat scroll 0 0 transparent;    
+    padding: 5px 20px;
+}
+#formincrip2 .datos .put{
+    margin: 10px;
+    height: 40px;
+}
+#formincrip2 .datos .put .direccion{
+    width: 95%;
+}
+#formincrip2 .datos .put .iz{
+    float: left;
+    width: 50%;
+}
+#formincrip2 .datos .put .de{
+    float: right;
+    width: 45%;
+}
+#formincrip2 .datos .put span{
+    color: #338FA4;
+    float: left;
+    width: 254px;
+}
+#formincrip2 .datos .put input{
+    width: 250px;
+}
+#formincrip2 .btns-form{
+    float: left;
+    width: 100%;    
+}
+#formincrip2 .btns-form .import{
+    color: red;
+    font: 10px arial;
+}
+/*-----------------------------*/
+#formincrip3{
+}
+#formincrip3 .fich{
+    float: left;
+    width: 100%;    
+    margin: 0 0 10px;
+}
+#formincrip3 .fich label{
+    color: #338FA4;
+}
+#formincrip3 .fich .obliga, #formincrip3 .datos label{
+    color: red;
+    position: absolute;
+    right: 1px;
+    top: 1px;      
+    font: 10px arial;
+}
+#formincrip3 .fich .asocc{
+    width: 100%;
+    height: 55px;
+    position: relative;
+}
+#formincrip3 .fich .asocc div{
+    position: relative;
+    float: left;
+    padding: 13px 10px 0 0;
+}
+
+#formincrip3 .fich .gener{
+    
+}
+#formincrip3 .fich .gener .iz{
+    width: 49%;
+    float: left;
+    margin-right: 5px;
+}
+#formincrip3 .fich .gener .iz div, #formincrip3 .fich .gener .de div{
+    height: 31px;
+    position: relative;
+    padding: 13px 10px 0 0;
+}
+#formincrip3 .fich .gener .iz .lab{
+    float: left;
+    width: 40%;
+}
+
+#formincrip3 .fich .gener .iz input{
+    float: right;
+}
+#formincrip3 .fich .gener .de{
+    width: 49%;
+    float: right;
+    margin-left: 5px;
+}
+#formincrip3 .fich .gener .de  .lab{
+    float: left;
+    width: 40%;    
+}
+#formincrip3 .fich .gener .de  .obliga{
+    position: absolute;
+    right: 1px;
+    top: 1px;
+}
+#formincrip3 .fich .gener .de input{
+    float: right;    
+}
+#formincrip3 .asereg{
+    float: left;
+    margin: 0 0 10px;    
+    width: 100%;
+}
+#formincrip3 .asereg .options{
+    height: 20px;
+}
+#formincrip3 .asereg .options .asesorinm{
+    float: left;
+    width: 230px;
+}
+#formincrip3 .asereg .options .asesorinm span{
+
+}
+#formincrip3 .asereg .options .regisvivi{
+    float: left;
+}
+#formincrip3 .asereg .options .textase{
+    margin: 5px 0;
+}
+#formincrip3 .asereg .options .yesno{
+    margin: 5px;
+}
+#formincrip3 .asereg .options .yesno{
+    color: #595959;
+    font: bold 12px arial;
+}
+#formincrip3 .asereg .areass{
+    
+}
+#formincrip3 .asereg .areass span{
+    width: 100%;
+    height: 20px;
+    float: left;
+}
+#formincrip3 .asereg .areass input{
+    float: left;
+}
+#formincrip3 .adic{
+    float: left;
+    width: 100%;
+    margin: 0 0 10px;
+}
+#formincrip3 .adic .adiccion{
+    height: 23px;
+}
+#formincrip3 .adic .adiccion label{
+    float: left;
+    margin: 0px 13px 0px 0;
+}
+#formincrip3 .adic .adiccion label b{
+    font: 13px 'DroidSansBold';
+    color: #338FA4;
+}
+#formincrip3 .adic span{
+    color: #338FA4;
+    float: left;
+    width: 30%;
+    margin: 0;
+}
+#formincrip3 .adic input{
+    float: left;
+}
+#formincrip3 .bot-form{
+    background: url(../imgs/bot-forms.png) no-repeat scroll 0 0 transparent ;
+    width: 100%;
+    height: 10px;
+    float: left;    
+    margin: 5px 0;
+}
+
+#formincrip3 .datos{
+    float: left;
+    width: 595px;
+    margin: 0 0 10px;
+    background: url(../imgs/bg-datos-form.jpg) no-repeat scroll 0 0 transparent;    
+    padding: 5px 20px;
+}
+#formincrip3 .datos .put{
+    margin: 10px;
+    height: 40px;
+    position: relative;
+    width: 97%;
+}
+#formincrip3 .datos .put .direccion{
+    width: 95%;
+}
+#formincrip3 .datos .put .iz{
+    float: left;
+    width: 46%;
+    position: relative;
+    margin-right: 10px;
+    margin-right: 20px;
+}
+
+#formincrip3 .datos .put .cen{
+    width: 100%;
+    position: relative;
+}
+
+#formincrip3 .datos .put .de{
+    float: left;
+    width: 46%;
+    position: relative;
+    margin-left: 20px;
+}
+#formincrip3 .datos .put span{
+    color: #338FA4;
+    float: left;
+    width: 254px;
+}
+#formincrip3 .datos .put input{
+    width: 250px;
+}
+#formincrip3 .btns-form{
+    float: left;
+    width: 100%;    
+}
+#formincrip3 .btns-form .import{
+    color: red;
+    font: 10px arial;
+}
+/*---------------------------*/
+#formincrip4{
+}
+#formincrip4 .fich{
+    float: left;
+    width: 100%;    
+    margin: 0 0 10px;
+}
+#formincrip4 .fich label{
+    color: #338FA4;
+}
+#formincrip4 .fich .obliga{
+    color: red;
+    position: absolute;
+    right: 1px;
+    top: 1px;      
+    font: 10px arial;
+}
+#formincrip4 .fich .asocc{
+    width: 100%;
+    height: 55px;
+    position: relative;
+}
+#formincrip4 .fich .asocc div{
+    position: relative;
+    float: left;
+    padding: 13px 10px 0 0;
+}
+
+#formincrip4 .fich .gener{
+    
+}
+#formincrip4 .fich .gener .iz{
+    width: 49%;
+    float: left;
+    margin-right: 5px
+}
+#formincrip4 .fich .gener .iz div, #formincrip4 .fich .gener .de div{
+    height: 31px;
+    position: relative;
+    padding: 13px 10px 0 0;
+}
+#formincrip4 .fich .gener .iz .lab{
+    float: left;
+    width: 40%;
+}
+
+#formincrip4 .fich .gener .iz input{
+    float: right;
+}
+#formincrip4 .fich .gener .de{
+    width: 49%;
+    float: right;
+    margin-left: 5px;
+}
+#formincrip4 .fich .gener .de  .lab{
+    float: left;
+    width: 40%;    
+}
+#formincrip4 .fich .gener .de  .obliga{
+    position: absolute;
+    right: 1px;
+    top: 1px;
+}
+#formincrip4 .fich .gener .de input{
+    float: right;    
+}
+#formincrip4 .asereg{
+    float: left;
+    margin: 0 0 10px;    
+    width: 100%;
+}
+#formincrip4 .asereg .options{
+    height: 20px;
+}
+#formincrip4 .asereg .options .asesorinm{
+    float: left;
+    width: 230px;
+}
+
+#formincrip4 .asereg .options .regisvivi{
+    float: left;
+}
+#formincrip4 .asereg .options .textase{
+    margin: 5px 0;
+}
+#formincrip4 .asereg .options .yesno{
+    margin: 5px;
+}
+#formincrip4 .asereg .options .yesno{
+    color: #595959;
+    font: bold 12px arial;
+}
+#formincrip4 .asereg .areass{
+    
+}
+#formincrip4 .asereg .areass span{
+    width: 100%;
+    height: 20px;
+    float: left;
+}
+#formincrip4 .asereg .areass input{
+    float: left;
+}
+#formincrip4 .adic{
+    float: left;
+    width: 100%;
+    margin: 0 0 10px;
+}
+#formincrip4 .adic .adiccion{
+    height: 23px;
+}
+#formincrip4 .adic .adiccion label{
+    float: left;
+    margin: 0px 13px 0px 0;
+}
+#formincrip4 .adic .adiccion label b{
+    font: 13px 'DroidSansBold';
+    color: #338FA4;
+}
+#formincrip4 .adic span{
+    color: #338FA4;
+    float: left;
+    width: 30%;
+    margin: 0;
+}
+#formincrip4 .adic input{
+    float: left;
+}
+#formincrip4 .bot-form{
+    background: url(../imgs/bot-forms.png) no-repeat scroll 0 0 transparent ;
+    width: 100%;
+    height: 10px;
+    float: left;    
+    margin: 5px 0;
+}
+
+#formincrip4 .datos{
+    float: left;
+    width: 595px;
+    margin: 0 0 10px;
+    background: url(../imgs/bg-datos-form.jpg) no-repeat scroll 0 0 transparent;    
+    padding: 5px 20px;
+}
+#formincrip4 .datos .put{
+    margin: 10px;
+    height: 40px;
+}
+#formincrip4 .datos .put .direccion{
+    width: 95%;
+}
+#formincrip4 .datos .put .iz{
+    float: left;
+    width: 50%;
+}
+#formincrip4 .datos .put .de{
+    float: right;
+    width: 45%;
+}
+#formincrip4 .datos .put span{
+    color: #338FA4;
+    float: left;
+    width: 254px;
+}
+#formincrip4 .datos .put input{
+    width: 250px;
+}
+#formincrip4 .btns-form{
+    float: left;
+    width: 100%;    
+}
+#formincrip4 .btns-form .import{
+    color: red;
+    font: 10px arial;
+}
+
+
+
+/*---------------------------*/
+#formincrip5{
+}
+#formincrip5 .fich{
+    float: left;
+    width: 100%;    
+    margin: 0 0 10px;
+}
+#formincrip5 .fich label{
+    color: #338FA4;
+}
+#formincrip5 .fich .obliga{
+    color: red;
+    position: absolute;
+    right: 1px;
+    top: 1px;      
+    font: 10px arial;
+}
+#formincrip5 .fich .asocc{
+    width: 100%;
+    height: 55px;
+    position: relative;
+}
+#formincrip5 .fich .asocc div{
+    position: relative;
+    float: left;
+    padding: 13px 10px 0 0;
+}
+
+#formincrip5 .fich .gener{
+    
+}
+#formincrip5 .fich .gener .iz{
+    width: 49%;
+    float: left;
+    margin-right: 5px
+}
+#formincrip5 .fich .gener .iz div, #formincrip5 .fich .gener .de div{
+    height: 31px;
+    position: relative;
+    padding: 13px 10px 0 0;
+}
+#formincrip5 .fich .gener .iz .lab{
+    float: left;
+    width: 40%;
+}
+
+#formincrip5 .fich .gener .iz input{
+    float: right;
+}
+#formincrip5 .fich .gener .de{
+    width: 49%;
+    float: right;
+    margin-left: 5px;
+}
+#formincrip5 .fich .gener .de  .lab{
+    float: left;
+    width: 40%;    
+}
+#formincrip5 .fich .gener .de  .obliga{
+    position: absolute;
+    right: 1px;
+    top: 1px;
+}
+#formincrip5 .fich .gener .de input{
+    float: right;    
+}
+#formincrip5 .asereg{
+    float: left;
+    margin: 0 0 10px;    
+    width: 100%;
+}
+#formincrip5 .asereg .options{
+    height: 20px;
+}
+#formincrip5 .asereg .options .asesorinm{
+    float: left;
+    width: 230px;
+}
+
+#formincrip5 .asereg .options .regisvivi{
+    float: left;
+}
+#formincrip5 .asereg .options .textase{
+    margin: 5px 0;
+}
+#formincrip5 .asereg .options .yesno{
+    margin: 5px;
+}
+#formincrip5 .asereg .options .yesno{
+    color: #595959;
+    font: bold 12px arial;
+}
+#formincrip5 .asereg .areass{
+    
+}
+#formincrip5 .asereg .areass span{
+    width: 100%;
+    height: 20px;
+    float: left;
+}
+#formincrip5 .asereg .areass input{
+    float: left;
+}
+#formincrip5 .adic{
+    float: left;
+    width: 100%;
+    margin: 0 0 10px;
+}
+#formincrip5 .adic .adiccion{
+    height: 23px;
+}
+#formincrip5 .adic .adiccion label{
+    float: left;
+    margin: 0px 13px 0px 0;
+}
+#formincrip5 .adic .adiccion label b{
+    font: 13px 'DroidSansBold';
+    color: #338FA4;
+}
+#formincrip5 .adic span{
+    color: #338FA4;
+    float: left;
+    width: 30%;
+    margin: 0;
+}
+#formincrip5 .adic input{
+    float: left;
+}
+#formincrip5 .bot-form{
+    background: url(../imgs/bot-forms.png) no-repeat scroll 0 0 transparent ;
+    width: 100%;
+    height: 10px;
+    float: left;    
+    margin: 5px 0;
+}
+
+#formincrip5 .datos{
+    float: left;
+    width: 595px;
+    margin: 0 0 10px;
+    background: url(../imgs/bg-datos-form.jpg) no-repeat scroll 0 0 transparent;    
+    padding: 5px 20px;
+}
+#formincrip5 .datos .put{
+    margin: 10px;
+    height: 40px;
+}
+#formincrip5 .datos .put .direccion{
+    width: 95%;
+}
+#formincrip5 .datos .put .iz{
+    float: left;
+    width: 50%;
+}
+#formincrip5 .datos .put .de{
+    float: right;
+    width: 45%;
+}
+#formincrip5 .datos .put span{
+    color: #338FA4;
+    float: left;
+    width: 254px;
+}
+#formincrip5 .datos .put input{
+    width: 250px;
+}
+#formincrip5 .btns-form{
+    float: left;
+    width: 100%;    
+}
+#formincrip5 .btns-form .import{
+    color: red;
+    font: 10px arial;
+}
+
+
